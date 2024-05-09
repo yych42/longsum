@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+numpy
+scikit-learn
+langchain
+tiktoken
+pandas
+weaviate-client
+pypdf
+openai

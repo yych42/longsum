@@ -1,0 +1,1 @@
+This is the source code of a legacy project. You may need to update some dependencies substantially to make this work; I made the mistake of not even freezing the dependency versions in the requirements.txt file. I apologize for the inconvenience.
